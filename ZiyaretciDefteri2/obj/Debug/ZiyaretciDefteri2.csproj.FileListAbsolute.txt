@@ -1,0 +1,74 @@
+c:\users\burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.exe
+c:\users\burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.pdb
+c:\users\burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.exe
+c:\users\burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.pdb
+C:\Users\Burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.csprojResolveAssemblyReference.cache
+C:\Users\Burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Anaform.resources
+C:\Users\Burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.ZGiris.resources
+C:\Users\Burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Giris.resources
+C:\Users\Burak\documents\visual studio 2013\Projects\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Ekle.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.exe.config
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.exe
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.pdb
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.exe
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.pdb
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.csprojResolveAssemblyReference.cache
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Anaform.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Giris.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Ekle.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Liste.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.ZGiris.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Properties.Resources.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.csproj.GenerateResource.Cache
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Edit.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.exe.config
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.exe
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.pdb
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.exe
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.pdb
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Anaform.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Giris.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Edit.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Ekle.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Liste.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.ZGiris.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Properties.Resources.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.csproj.GenerateResource.Cache
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.exe.config
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.exe
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.pdb
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.csprojResolveAssemblyReference.cache
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Anaform.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Giris.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Edit.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Ekle.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Liste.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.ZGiris.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Properties.Resources.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.csproj.GenerateResource.Cache
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.exe
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.pdb
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.birim.b_Liste.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.birim.b_Ekle.resources
+C:\Users\Ufuk\Desktop\ZiyaretciDefteri2-1-2\ZiyaretciDefteri2-1\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.birim.b_Edit.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.exe.config
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.exe
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\bin\Debug\ZiyaretciDefteri2.pdb
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Anaform.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.birim.b_Edit.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.birim.b_Ekle.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.birim.b_Liste.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Giris.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Edit.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Ekle.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.kullanici.k_Liste.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.ZGiris.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.Properties.Resources.resources
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.exe
+C:\Users\Burak\Desktop\ZiyaretciDefteri2\ZiyaretciDefteri2\obj\Debug\ZiyaretciDefteri2.pdb
